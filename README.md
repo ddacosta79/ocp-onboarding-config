@@ -1,1 +1,1 @@
-# ocp-onboarding-config
+# RedHat Openshift config
